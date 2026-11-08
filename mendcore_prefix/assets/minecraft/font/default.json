@@ -1,0 +1,14 @@
+{
+	"providers": [
+	    {
+		 "type": "bitmap",
+		 "file": "minecraft:font:/air.png",
+		 "ascent": "",
+		 "height": "",
+		 "chars": [
+		          "\u00BD"
+		    ] 
+		 
+	    },
+	]
+}
